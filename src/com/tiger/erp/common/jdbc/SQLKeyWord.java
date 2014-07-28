@@ -1,0 +1,51 @@
+package com.tiger.erp.common.jdbc;
+
+public class SQLKeyWord {
+
+    public static final String SELECT = "SELECT";
+    public static final String INSERT = "INSERT";
+    public static final String DELETE = "DELETE";
+    public static final String UPDATE = "UPDATE";
+    public static final String FROM = "FROM";
+    public static final String INTO = "INTO";
+    public static final String DISTINCT = "DISTINCT";
+    public static final String VALUES = "VALUES";
+    public static final String VALUE = "VALUE";
+    public static final String WHERE = "WHERE";
+    public static final String HAVING = "HAVING";
+    public static final String AND = "AND";
+    public static final String OR = "OR";
+    public static final String LIKE = "LIKE";
+    public static final String IN = "IN";
+    public static final String SET = "SET";
+    public static final String JOIN = "JOIN";
+    public static final String INNER_JOIN = "INNER JOIN";
+    public static final String LEFT_JOIN = "LEFT JOIN";
+    public static final String RIGHT_JOIN = "RIGHT JOIN";
+    public static final String FULL_JOIN = "FULL JOIN";
+    public static final String UNION = "UNION";
+    public static final String TOP = "TOP";
+    public static final String GROUP_BY = "GROUP BY";
+    public static final String ORDER_BY = "ORDER BY";
+    public static final String COUNT = "COUNT";
+    public static final String MAX = "MAX";
+    public static final String MIN = "SUM";
+    public static final String SUM = "SUM";
+    public static final String CONCAT = "CONCAT";
+    public static final String L_PARENTHESE = "(";
+    public static final String R_PARENTHESE = ")";
+    public static final String SPACE = " ";
+    public static final String EMPTY = "";
+    public static final String EQUAL = "=";
+    public static final String NOT_EQUAL = "<>";
+    public static final String PLACEHOLDER = "?";
+    public static final String PERCENT = "%";
+    public static final String UNDERLINE = "_";
+    public static final String STAR = "*";
+    public static final String POINT = ".";
+    public static final String COMMA = ",";
+    public static final String SEMICOLON = ";";
+    public static final String COLON = ":";
+    public static final String SINGLE_QUOTES = "'";
+    public static final String QUOTES = "\"";
+}
